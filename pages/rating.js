@@ -129,7 +129,7 @@ const Rating = () => {
                             />
                         </div>
                         <button className="block w-72 m-auto my-4 rounded-3xl font-medium text-white bg-gradient-to-r from-red-500 to-yellow-500 px-8 py-3 shadow-2xl focus:outline-none">
-                            Enviar critica ou sujestão
+                            Enviar critica ou sugestão
                         </button>
                     </div>
                 </form>
