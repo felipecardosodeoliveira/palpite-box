@@ -1,7 +1,5 @@
 # PalpiteBox - Semana Fullstack Master
 
-[![HitCount](https://hits.dwyl.com/tuliofaria/tuliofaria/palpite-box.svg)](https://hits.dwyl.com/tuliofaria/tuliofaria/palpite-box)
-
 Este projeto foi construído durante a Semana Fullstack Master do [DevPleno](https://devpleno.com). Uma versão online deste projeto pode ser encontrada em: https://palpite-box-e1qxucic9.vercel.app/.
 
 ## Início
@@ -37,11 +35,6 @@ rapidly building custom designs.
 ## Author:
 
 * **Felipe Cardoso de Oliveira** - [LinkedIn](https://www.linkedin.com/in/felipe-cardoso-7515b61a6/)
-
-
-## Licença
-
-Este projeto é licenciado sobre a licença MIT - veja [LICENSE.md](LICENSE.md) para mais informações.
 
 ## Acknowledgments
 
