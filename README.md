@@ -4,10 +4,7 @@
 
 Este projeto foi construído durante a Semana Fullstack Master do [DevPleno](https://devpleno.com). Uma versão online deste projeto pode ser encontrada em: https://palpite-box.tuliofaria.dev/.
 
-![Preview](https://github.com/tuliofaria/palpite-box/blob/master/print.png?raw=true)
-
 ## Início
-
 
 
 ### Pré-requisitos:
@@ -18,10 +15,6 @@ Você precisa do NodeJS e do NPM instalado em sua máquina.
 npm install
 npm run dev
 ```
-
-## Layout:
-
-Criamos o layout utilizando o Figma. Você pode encontrar o arquivo [aqui](https://www.figma.com/file/HxvAYhS6l7UDI49u8uLdaC/palpite-box?node-id=0%3A1).
 
 ## Colocando em produção:
 
