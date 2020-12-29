@@ -1,6 +1,6 @@
 # PalpiteBox - Semana Fullstack Master
 
-Este projeto foi construído durante a Semana Fullstack Master do [DevPleno](https://devpleno.com). Uma versão online deste projeto pode ser encontrada em: https://palpite-box-e1qxucic9.vercel.app/.
+Este projeto foi construído durante a Semana Fullstack Master do [DevPleno](https://devpleno.com). Uma versão online deste projeto pode ser encontrada em: https://palpite-box-git-master.felipecardosodeoliveira.vercel.app/.
 
 ## Início
 
