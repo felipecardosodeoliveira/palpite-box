@@ -6,7 +6,7 @@ const Footer = () => {
             <div className="container mx-auto">
                 <h3 className="text-lg text-center text-gray-900 py-6 pb-0">
                     <span>Projeto desenvolvido por Felipe Cardoso de Oliveira</span>
-                    <a className="text-red-500" href="https://www.linkedin.com/in/felipe-cardoso-7515b61a6/"> Linkedin </a>/
+                    <a className="text-red-500" href="https://www.linkedin.com/in/felipecardosodeoliveira/"> Linkedin </a>/
                     <a className="text-red-500" href="https://github.com/felipecardosodeoliveira"> Github </a>
                 </h3>
                 <div className="flex justify-center space-x-12 p-4">
