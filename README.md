@@ -34,7 +34,7 @@ rapidly building custom designs.
 
 ## Author:
 
-* **Felipe Cardoso de Oliveira** - [LinkedIn](https://www.linkedin.com/in/felipe-cardoso-7515b61a6/)
+* **Felipe Cardoso de Oliveira** - [LinkedIn](https://www.linkedin.com/in/felipecardosodeoliveira/)
 
 ## Acknowledgments
 
